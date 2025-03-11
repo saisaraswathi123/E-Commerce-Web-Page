@@ -1,0 +1,68 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+/* Centered Box for Women's Fashion */
+.product-container {
+    width: 60%;
+    margin: 8% auto;
+    background: linear-gradient(to right,#5ac9e8,#2893b9);
+    padding: 30px;
+    text-align: center;
+    border: radius 12px; ;
+    box-shadow:5px 101px 15px rgba(0, 2) ;
+    
+}
+/* Product Grid */
+.product-container .product {
+    display: inline-block;
+    width: 250px;
+    background: white;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Product Image */
+.product-container .product img {
+    width: 200px;
+    height: 500px;
+    object-fit:cover;
+    border-radius: 5px;
+}
+
+/* Product Info */
+.product-container .product h2 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.product-container .product p {
+    font-size: 16px;
+    color: #555;
+    margin: 5px 0;
+}
+
+/* Footer Styling */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensures full-page height */
+}
+
+.content {
+    flex: 1; /* Pushes the footer down */
+}
+footer {
+    text-align: center;
+    padding: 60px;
+    margin-top: 100px;
+    background: #222;
+    color: white;
+}
+
