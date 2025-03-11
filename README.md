@@ -15,7 +15,7 @@ This project is a simple *E-Commerce Fashion Store* built using *HTML, CSS. It p
 - 
 ##  Live Demo
  *Check out the live project here:*  
-[🔗 Click to view](https://saisaraswathi123.github.io/fashion-store/)
+[🔗 Click to view](https://saisaraswathi123.github.io/E-Commerce-Web-Page/)
 
 ##  How to Run the Project?
 1. Clone the repository:
