@@ -1,7 +1,7 @@
 # Fashion Store Website
 
 ##  Project Overview
-This project is a simple *E-Commerce Fashion Store* built using *HTML, CSS. It provides different categories like **Men's and Women's Fashion*, including shirts, trousers, dresses, and more.
+This project is a simple *E-Commerce Fashion Store* built using HTML, CSS. It provides different categories like Men's and Women's Fashion, including shirts, trousers, dresses, and more.
 
 ##  Features
 - ✅ Home page with categories
@@ -14,7 +14,7 @@ This project is a simple *E-Commerce Fashion Store* built using *HTML, CSS. It p
 - CSS3
 - 
 ##  Live Demo
- *Check out the live project here:*  
+ Check out the live project here: 
 [🔗 Click to view](https://saisaraswathi123.github.io/E-Commerce-Web-Page/)
 
 ##  How to Run the Project?
