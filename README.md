@@ -12,7 +12,7 @@ This project is a simple *E-Commerce Fashion Store* built using HTML, CSS. It pr
 ##  Technologies Used
 - HTML5
 - CSS3
-- 
+   
 ##  Live Demo
  Check out the live project here: 
 [🔗 Click to view](https://saisaraswathi123.github.io/E-Commerce-Web-Page/)
